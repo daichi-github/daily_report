@@ -16,3 +16,4 @@
 - PATH
 - シェル（複数のシェルの理解）
 - vim online-helpの利用について
+- yum clean all(ターミナル）
