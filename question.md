@@ -17,3 +17,6 @@
 - シェル（複数のシェルの理解）
 - vim online-helpの利用について
 - yum clean all(ターミナル）
+
+## 未解決(git)
+- git rebase warpで実施に作業してみたが、あまり理解できなかった。
